@@ -1,3 +1,3 @@
-Working demo of a github.io hosted octopress blog.
+Working demo of a Github hosted Octopress blog.
 
 [Check it live!](http://mcounts.github.io)
